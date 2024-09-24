@@ -1,0 +1,17 @@
+book:
+  title: "BiocBookTesting3"
+  chapters:
+    - index.qmd
+  cover-image: assets/cover.png
+  favicon: assets/favicon.png
+  sidebar: 
+    tools:
+      - icon: git
+        menu:
+          - text: Source Code
+            url:  https://github.com/lmweber/BiocBookTesting3/
+          - text: Browse version `devel`
+            url:  https://lmweber.github.io/BiocBookTesting3/devel/
+    style: "docked"
+    background: "light"
+    collapse-level: 5
