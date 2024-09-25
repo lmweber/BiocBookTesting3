@@ -3,6 +3,7 @@ book:
   chapters:
     - index.qmd
     - pages/introduction.qmd
+    - pages/clustering.qmd
   cover-image: assets/cover.png
   favicon: assets/favicon.png
   sidebar: 
